@@ -1,5 +1,5 @@
 # Ios are the factors and their outputs
-ios = {3: "Fizz", 5: "Buzz", 7: "Bizz", 11: "Fuzz"}
+ios = {3: "Fizz", 5: "Buzz"}
 
 # E.G. if the number is a factor of 3: output fizz. Same with the others.
 
